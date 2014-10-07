@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Blind Links": {
+            "applicationId": "9f3p730Ynsj9hLbeEuGxGC9Nifwmh5Co0NCAsbi5", 
+            "masterKey": "8X6k7i5LG71VOurVbkLj2KUk5HBP5wJqwOCySZUt"
+        }, 
+        "_default": {
+            "link": "Blind Links"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
